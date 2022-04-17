@@ -2,4 +2,11 @@
 -- run of this script
 -- e.g. DROP TABLE IF EXISTS ______;
 
+
+
+
 -- CREATE TABLES
+
+CREATE TABLE contacts(
+    con
+)
